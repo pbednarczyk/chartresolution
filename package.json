@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@carbon/charts": "1.6.1",
+    "@carbon/charts-vue": "1.6.1",
+    "@vue/cli-plugin-babel": "4.1.1",
+    "d3": "^7.0.0",
+    "vue": "^2.6.11"
+  }
+}
